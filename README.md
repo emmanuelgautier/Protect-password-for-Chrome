@@ -1,2 +1,2 @@
-Protect-password-for-Chrome
+Protect password for Chrome
 ===========================
