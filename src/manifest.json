@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	
+	"name": "Protect password",
+	"icons": { "16": "icon-16.png", "48": "icon-48.png", "128": "icon-128.png"},
+	"description": "This extension provide a protection for your password",
+	"version": "1.0",
+	"options_page": "options.html",
+	
+	"background": { "scripts": ["background.js"] },
+	"permissions": [
+		"tabs"
+	]
+}
