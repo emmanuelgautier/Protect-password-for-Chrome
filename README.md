@@ -1,6 +1,6 @@
 Protect password for Chrome
 ===========================
-This script is a chrome extension which provide a protection for chrome users' password
+This script is a chrome extension which provide a protection for chrome users password
 
 Licence
 =======
